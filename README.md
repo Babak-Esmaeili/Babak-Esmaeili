@@ -4,7 +4,7 @@ I’m a Ph.D. student in the Department of Mechanical Engineering at Michigan St
 
 🔍 **My research focuses on**:
 - Safe motion planning and control for autonomous systems
-- Risk-aware and model-free reinforcement learning control
+- Risk-aware and model-free safe reinforcement learning control
 - Adaptive and iterative learning control for exoskeletons and multi-agent systems
 - ROS/Gazebo-based development for autonomous vehicle control
 
