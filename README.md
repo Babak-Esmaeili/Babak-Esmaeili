@@ -13,5 +13,3 @@ I’m a Ph.D. student in the Department of Mechanical Engineering at Michigan St
 📫 Feel free to reach out for collaboration or questions: esmaeil1@msu.edu.
 
 ---
-
-**Happy coding & research!**
