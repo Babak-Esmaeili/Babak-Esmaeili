@@ -10,7 +10,7 @@ I’m a Ph.D. student in the Department of Mechanical Engineering at Michigan St
 
 💡 I enjoy solving complex engineering problems and developing elegant, mathematically grounded solutions.
 
-📫 How to reach me: [esmaeil1@msu.edu]
+📫 Feel free to reach out for collaboration or questions: esmaeil1@msu.edu.
 
 ---
 
