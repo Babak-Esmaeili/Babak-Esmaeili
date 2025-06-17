@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Babak Esmaeili
 
-I’m a Ph.D. student in the Department of Mechanical Engineering at Michigan State University, specializing in model-free safe control design for autonomous systems.
+I’m a Ph.D. candidate in the Department of Mechanical Engineering at Michigan State University, specializing in risk-aware data-driven safe control, reinforcement learning, and motion planning for autonomous systems.
 
 🔍 **My research focuses on**:
 - Safe motion planning and control for autonomous systems
