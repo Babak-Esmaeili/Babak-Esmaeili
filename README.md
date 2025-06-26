@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Babak Esmaeili
+# Hi, I'm Babak Esmaeili
 
 I’m a Ph.D. candidate in the Department of Mechanical Engineering at Michigan State University, specializing in risk-aware data-driven safe control, reinforcement learning, and motion planning for autonomous systems.
 
